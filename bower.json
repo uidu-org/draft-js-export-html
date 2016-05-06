@@ -1,0 +1,14 @@
+{
+  "name": "draft-js-export-html",
+  "description": "DraftJS: Export ContentState to HTML",
+  "main": "dist/stateToHtml.js",
+  "authors": [
+    "andrea.vanini@uidu.org"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "draft-js",
+    "export-html"
+  ],
+  "homepage": "https://github.com/uidu-org/draft-js-export-html"
+}
