@@ -4,7 +4,7 @@
   "description": "DraftJS: Export ContentState to HTML",
   "main": "lib/main.js",
   "scripts": {
-    "build": "babel src --ignore '_*' --out-dir lib",
+    "build": "babel src/stateToHTML.js --out-file dist/stateToHTML.js",
     "lint": "eslint --max-warnings 0 .",
     "typecheck": "flow",
     "prepublish": "npm run build",
